@@ -5,5 +5,5 @@
 'npm test' will run the tests<br />
 'npm start' will run the server<br />
 <br />
-./demo/post.js can be modified to run any use case that you want<br />
+node ./demo/post.js will run an example and it can be modified to run any use case that you want<br />
 check out https://www.npmjs.com/package/request for the documentation<br />
