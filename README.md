@@ -4,6 +4,6 @@
 'npm install' will download the dependencies and testing framework <br />
 'npm test' will run the tests<br />
 'npm start' will run the server<br />
-<br /><br />
+<br />
 ./demo/post.js can be modified to run any use case that you want<br />
 check out https://www.npmjs.com/package/request for the documentation<br />
