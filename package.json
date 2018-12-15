@@ -1,0 +1,22 @@
+{
+  "name": "subsequences-in-context",
+  "version": "1.0.0",
+  "description": "service for string search and it's context",
+  "main": "./server/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "vikasboddu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0",
+    "standard": "^12.0.1"
+  }
+}
